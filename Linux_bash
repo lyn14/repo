@@ -1,0 +1,6 @@
+#!/bin/bash/
+print("Hello!")
+if(FALSE)
+fi
+for
+done
