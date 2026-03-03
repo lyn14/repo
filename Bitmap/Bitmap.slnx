@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Bitmap/Bitmap.vcxproj" Id="7ebb3a84-1a91-45a5-87a1-f28453a7b52a" />
+</Solution>
